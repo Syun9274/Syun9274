@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align = "center">
 
-<!--
-**Syun9274/Syun9274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=6A5ACD&lines=Hi,+I'm+YSMin!;Welcome+to+my+GitHub!" style="width: 100%"/>
 
-Here are some ideas to get you started:
+## 🖥️ Stack
+[![My Skills](https://skillicons.dev/icons?i=py,java,spring,gradle,mysql&perline=5)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tool
+[![My Tools](https://skillicons.dev/icons?i=github,idea,pycharm,vscode,androidstudio&perline=5)](https://skillicons.dev)
+
+---
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syun9274&layout=compact)
+
+![Itzell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syun9274&theme=tokyonight&show_icons=true)
+
+</div>
