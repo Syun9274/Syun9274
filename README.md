@@ -9,7 +9,7 @@
 [![Excperienced With](https://skillicons.dev/icons?i=css,flutter,html,js,dart&perline=7)](https://skillicons.dev)
 
 ## 🔧 Tool
-[![My Tools](https://skillicons.dev/icons?i=github,idea,pycharm,vscode,androidstudio,docker,aws&perline=5)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=github,idea,pycharm,vscode,androidstudio,docker,aws&perline=7)](https://skillicons.dev)
 
 ---
   
