@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=6A5ACD&lines=Welcome+to+my+GitHub!" style="width: 100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub%20&fontSize=60&fontAlign=50&fontAlignY=40&animation=fadeIn" style="width: 100%"/>
 
 ## 🖥️ Main Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,py,gradle&perline=7)](https://skillicons.dev)
