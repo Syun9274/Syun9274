@@ -3,13 +3,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=6A5ACD&lines=Welcome+to+my+GitHub!" style="width: 100%"/>
 
 ## 🖥️ Main Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,py,gradle,github&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,py,gradle&perline=7)](https://skillicons.dev)
 
 ## 🌐 Experienced With
-[![Excperienced With](https://skillicons.dev/icons?i=css,flutter,html,js,aws,docker,dart&perline=7)](https://skillicons.dev)
+[![Excperienced With](https://skillicons.dev/icons?i=css,flutter,html,js,dart&perline=7)](https://skillicons.dev)
 
 ## 🔧 Tool
-[![My Tools](https://skillicons.dev/icons?i=github,idea,pycharm,vscode,androidstudio&perline=5)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=github,idea,pycharm,vscode,androidstudio,docker,aws&perline=5)](https://skillicons.dev)
 
 ---
   
