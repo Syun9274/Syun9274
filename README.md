@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,py,gradle&perline=7)](https://skillicons.dev)
 
 ## 🌐 Experienced With
-[![Excperienced With](https://skillicons.dev/icons?i=css,flutter,html,js,dart&perline=7)](https://skillicons.dev)
+[![Excperienced With](https://skillicons.dev/icons?i=css,flutter,html,js,dart,redis&perline=7)](https://skillicons.dev)
 
 ## 🔧 Tool
 [![My Tools](https://skillicons.dev/icons?i=github,idea,pycharm,vscode,androidstudio,docker,aws&perline=7)](https://skillicons.dev)
